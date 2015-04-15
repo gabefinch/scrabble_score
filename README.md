@@ -1,1 +1,1 @@
-This is a sinatra web app that returns the scrabble value of words when entered. copyright 2015
+This is a Sinatra web app written by Phillip Orchard and Gabe Finch during the first week of Epicodus bootcamp. Given a string input it calculates the scrabble value of the word using a hash table of letter values. The method has test coverage using Rspec.
